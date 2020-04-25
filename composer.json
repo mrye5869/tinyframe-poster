@@ -1,6 +1,7 @@
 {
     "name": "tinyframe/poster",
     "description": "the new tinyframe extend",
+    "license": "Apache-2.0",
     "keywords": [
         "tinyframe",
 		"海报生成",
